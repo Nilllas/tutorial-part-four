@@ -22,7 +22,7 @@ export default function Layout({ children }) {
             font-style: normal;
           `}
         >
-          Pandas Eating Lots
+          Pandas Eating Lots of food
         </h3>
       </Link>
       <Link
